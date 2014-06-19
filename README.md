@@ -35,6 +35,10 @@ Client
 
 
 ## Changelog
+0.2.2
+
+- use fixed binarypack lib.
+
 0.2.1
 
 - Update js-binarypack to 0.0.7, fast utf8 support now on by default.
